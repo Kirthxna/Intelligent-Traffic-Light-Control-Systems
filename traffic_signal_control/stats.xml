@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-05-10 18:18:48 by Eclipse SUMO sumo Version 1.17.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="intersection_3.net.xml"/>
+        <route-files value="intersection_3.rou.xml"/>
+        <additional-files value="intersection_3.add.xml"/>
+    </input>
+
+    <output>
+        <summary-output value="summary.xml"/>
+        <tripinfo-output value="intersection_3_info.xml"/>
+        <tripinfo-output.write-unfinished value="False"/>
+        <statistic-output value="stats.xml"/>
+    </output>
+
+    <processing>
+        <time-to-teleport value="-1"/>
+        <eager-insert value="True"/>
+    </processing>
+
+    <traci_server>
+        <remote-port value="53525"/>
+    </traci_server>
+
+</configuration>
+-->
+
+<statistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/statistic_file.xsd">
+</statistics>
